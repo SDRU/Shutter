@@ -1,0 +1,3 @@
+c:\ProgramData\Anaconda3\Lib\site-packages\pylablib\thread\devices\Thorlabs\
+
+I added custom functions to communicate with the shutter
